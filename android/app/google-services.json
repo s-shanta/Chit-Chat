@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "314678516719",
+    "project_id": "chit-chat-cf4b1",
+    "storage_bucket": "chit-chat-cf4b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314678516719:android:545615c01009def9e2341a",
+        "android_client_info": {
+          "package_name": "com.ShammyShanta.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314678516719-bod55hmdue0vh3ttutp3t46usdhmsrs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrzZ38_4vicHf59d2oiFvxWX105i5ky2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314678516719-bod55hmdue0vh3ttutp3t46usdhmsrs3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314678516719-50h8a2v9cakbibgn0e4ddn6lkq69a35e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ShammyShanta.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
